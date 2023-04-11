@@ -1,0 +1,24 @@
+2023-04-11 11:25:39,263 :INFO : test_e2e :getting all the card titles
+2023-04-11 11:25:39,325 :INFO : test_e2e :iphone X
+2023-04-11 11:25:39,362 :INFO : test_e2e :Samsung Note 8
+2023-04-11 11:25:39,379 :INFO : test_e2e :Nokia Edge
+2023-04-11 11:25:39,399 :INFO : test_e2e :Blackberry
+2023-04-11 11:27:42,767 :INFO : test_e2e :getting all the card titles
+2023-04-11 11:27:42,854 :INFO : test_e2e :iphone X
+2023-04-11 11:27:42,898 :INFO : test_e2e :Samsung Note 8
+2023-04-11 11:27:42,943 :INFO : test_e2e :Nokia Edge
+2023-04-11 11:27:42,997 :INFO : test_e2e :Blackberry
+2023-04-11 11:29:16,665 :INFO : test_e2e :getting all the card titles
+2023-04-11 11:29:16,754 :INFO : test_e2e :iphone X
+2023-04-11 11:29:16,801 :INFO : test_e2e :Samsung Note 8
+2023-04-11 11:29:16,845 :INFO : test_e2e :Nokia Edge
+2023-04-11 11:29:16,894 :INFO : test_e2e :Blackberry
+2023-04-11 11:29:17,489 :INFO : test_e2e :Entering country name as ind
+2023-04-11 11:29:54,349 :INFO : test_e2e :getting all the card titles
+2023-04-11 11:29:54,441 :INFO : test_e2e :iphone X
+2023-04-11 11:29:54,487 :INFO : test_e2e :Samsung Note 8
+2023-04-11 11:29:54,546 :INFO : test_e2e :Nokia Edge
+2023-04-11 11:29:54,601 :INFO : test_e2e :Blackberry
+2023-04-11 11:29:55,183 :INFO : test_e2e :Entering country name as ind
+2023-04-11 11:30:00,957 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
